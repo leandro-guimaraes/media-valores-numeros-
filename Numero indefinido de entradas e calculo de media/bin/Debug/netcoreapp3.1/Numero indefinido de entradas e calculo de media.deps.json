@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Numero indefinido de entradas e calculo de media/1.0.0": {
+        "runtime": {
+          "Numero indefinido de entradas e calculo de media.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numero indefinido de entradas e calculo de media/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
